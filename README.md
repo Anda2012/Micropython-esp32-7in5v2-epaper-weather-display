@@ -78,3 +78,11 @@ CITY = "Yourcity"
 COUNTRY = "Yourcountry"
 
 Flash main.py and epd7in5.py, dht20.py to your ESP32 running MicroPython.
+
+## 3D Printed Parts
+
+This project makes use of a 3D printable model available on MakerWorld:  
+[Weather Station Case on MakerWorld](https://makerworld.com/models/133148)
+
+Please note: this model is licensed under the [Standard Digital File License](https://makerworld.com/license).  
+You may need to download it directly from MakerWorld and agree to their licensing terms.
