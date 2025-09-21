@@ -57,6 +57,8 @@ SETUP :
 | **VCC**     | 3.3V      | Power                                       |
 | **PWR**     | 3.3V      | Power                                       |
 
+**Use display config B and 4 wire SPI if the display still doesn't work, leave a comment and change your display configuration**
+
 | DHT20 Pin | ESP32 Pin | Notes     |
 | --------- | --------- | --------- |
 | **SDA**   | GPIO 15   | I2C Data  |
