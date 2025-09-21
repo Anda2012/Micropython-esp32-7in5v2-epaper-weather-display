@@ -1,0 +1,5 @@
+WIFI_SSID = "YourWiFiSSID" 
+WIFI_PASSWORD = "YourWiFiPassword" 
+OWM_API_KEY = "YourOpenWeatherMapAPIKey" 
+CITY = "Yourcity" 
+COUNTRY = "Yourcountry"
