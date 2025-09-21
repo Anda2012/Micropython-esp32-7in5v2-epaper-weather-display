@@ -72,7 +72,7 @@ Copy secrets.py to ESP32 and fill in:
 WIFI_SSID = "YourWiFiSSID"
 WIFI_PASSWORD = "YourWiFiPassword"
 OWM_API_KEY = "YourOpenWeatherMapAPIKey"
-CITY = "Bangkok"
-COUNTRY = "TH"
+CITY = "Yourcity"
+COUNTRY = "Yourcountry"
 
 Flash main.py and epd7in5.py, dht20.py to your ESP32 running MicroPython.
